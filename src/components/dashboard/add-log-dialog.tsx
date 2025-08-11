@@ -174,7 +174,7 @@ export function UpsertLogDialog({
                             {field.value ? (
                               format(field.value, "PPP")
                             ) : (
-                              <span>Choose a date</span>
+                              <span>Pick a date</span>
                             )}
                           </Button>
                         </FormControl>
