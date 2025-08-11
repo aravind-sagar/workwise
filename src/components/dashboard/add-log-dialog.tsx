@@ -173,9 +173,7 @@ export function UpsertLogDialog({
                             <CalendarIcon className="mr-2 h-4 w-4" />
                             {field.value ? (
                               format(field.value, "PPP")
-                            ) : (
-                              <span>Pick a date</span>
-                            )}
+                            ) : ( <span>Choose a date</span> )}
                           </Button>
                         </FormControl>
                       </PopoverTrigger>
