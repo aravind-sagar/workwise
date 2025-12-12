@@ -1,3 +1,5 @@
+<img width="2816" height="1536" alt="Workwise" src="https://github.com/user-attachments/assets/f2fb72e3-95fb-4587-95e4-2e371d61b4bf" />
+
 # WorkWise: Work Log & Review Helper
 
 Welcome to WorkWise! This is a Next.js application designed to help you log your daily work, track your progress, and streamline your performance reviews with the help of AI.
